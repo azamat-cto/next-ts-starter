@@ -1,5 +1,5 @@
 function Home() {
-  return <div>App</div>;
+  return <div className="flex items-center justify-center h-[100dvh]">App</div>;
 }
 
 export default Home;
